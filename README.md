@@ -6,4 +6,4 @@ Base De Datos bd_papeleria
 ![CLientes](https://github.com/aecortega/UIII-Act-1-MVC-/blob/main/Captura%20de%20pantalla%202023-11-08%20123004.png)
 
 ## Menu
-![menu](https://github.com/aecortega/UIII-Act-1-MVC-/blob/main/Captura%20de%20pantalla%202023-11-08%20123139.png)
+![menu](https://github.com/DDOrozco17/UIII-Act-1-MVC-/blob/main/Captura%20de%20pantalla%202023-11-08%20193345.png)
